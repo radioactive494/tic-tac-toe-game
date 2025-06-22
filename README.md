@@ -20,3 +20,6 @@ This is a simple command-line **Tic-Tac-Toe** game built using the **C programmi
 - Displays the final result: **Player X wins**, **Player O wins**, or **Draw**
 
 - C ; Tic Tac Toe Beginner; CLI Game; Data Structures; Logic; Building
+
+Reference:
+@CompleteCodingByPrashantSir
